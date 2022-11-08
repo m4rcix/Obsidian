@@ -1,0 +1,2 @@
+- Eloadasok, ctfek
+- 
