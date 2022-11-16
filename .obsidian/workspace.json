@@ -8,18 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f98c8b89e01a3b60",
+            "id": "f219ed392ae533a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARIPA/notes.md",
+                "file": "OSCP/Machines/LP-1 10.11.1.71.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9da9fd7d69c111b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Machines/LP-2 10.11.1.72.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5da84083c9eeb316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Machines/LP-3 10.11.1.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cddc488dd897709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Windows/scripts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de11058db0d844b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Machines/LP-4 10.11.1.13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -77,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARIPA/notes.md",
+                "file": "OSCP/Machines/LP-4 10.11.1.13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f98c8b89e01a3b60",
+  "active": "de11058db0d844b4",
   "lastOpenFiles": [
-    "PARIPA/meeting_notes.md",
-    "PARIPA/notes.md",
+    "OSCP/Machines/LP-3 10.11.1.5.md",
+    "OSCP/Machines/LP-2 10.11.1.72.md",
+    "OSCP/Windows/infogather.md",
     "OSCP/Windows/scripts.md",
-    "generic_work_notes.md",
-    "Workshop/notes.md",
-    "MLSEC/connect.md",
-    "OSCP/Course/MSFVenom.md",
-    "OSCP/Course/lab_network.png",
-    "OSCP/Course/pwk_network.md",
-    "Pasted image 20221003130907.png.md"
+    "OSCP/Machines/LP-4 10.11.1.13.md",
+    "OSCP/Machines/LP-1 10.11.1.71.md",
+    "OSCP/Linux/Scripts/password_cracking.md",
+    "OSCP/Linux/Scripts/socat_encrypted_shell.md",
+    "OSCP/Linux/Scripts/portscan_without_nmap.md",
+    "PARIPA/meeting_notes.md"
   ]
 }

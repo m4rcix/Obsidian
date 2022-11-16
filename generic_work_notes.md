@@ -17,3 +17,9 @@ From VPN
 
 ssh 10.4.160.20 -p 2222 -l mattertest -X -Y
 rdesktop -u mattertest 10.4.160.20
+
+## szakmai gyakorlat
+- Egyetemen febr. 28. indul a kepzes (1 honap csuszas futes miatt)
+- Szakmai gyakorlat (8 het) kerdeses
+- Papirozasi problemak (Egyetemi reszrol)
+- ZOLI :

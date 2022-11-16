@@ -13,7 +13,3 @@
 # Second meeting 10.12.
 - current distribution for malwares (are there any malware that uses unencrypted traffic for downloading)
 - Hajime malware uses encrypted peer-to-peer connections (not reachable for analysis)
-
-
-# Third meeting 10.26.
-- 

@@ -17,12 +17,11 @@ Halozati forgalombol binaris
 
 - Virtualization in QEMU
 	https://openwrt.org/docs/guide-user/virtualization/qemu#openwrt_in_qemu_x86-64
-
 - First application in QEMU
 	https://openwrt.org/docs/guide-developer/helloworld/start
-
 - Including libpcap with Hello World example
 	https://forum.openwrt.org/t/building-my-package-with-libpcap/84485
-
 - tcpxtract
 	https://github.com/faust/tcpextract
+- libpcap usage
+	https://www.devdungeon.com/content/using-libpcap-c
