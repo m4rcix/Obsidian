@@ -1,8 +1,3 @@
-## TODO
-- upgrade kirale border gateway ✅
-- flash onto SD card ✅
-- change ip address into 192.168.45/24 ✅
-- make sure Lenovo Desktop in office doesn't turn off ✅
 
 ## Matter Lab access
 
@@ -14,6 +9,10 @@ From Local wifi
 ssh 192.168.45.6 -l mattertest -X -Y
 
 From VPN 
+
+```bash
+sudo ifconfig gpd0 mtu 1200 # if ssh does not work
+```
 
 ssh 10.4.160.20 -p 2222 -l mattertest -X -Y
 rdesktop -u mattertest 10.4.160.20
