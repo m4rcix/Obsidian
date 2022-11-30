@@ -22,3 +22,9 @@ rdesktop -u mattertest 10.4.160.20
 - Szakmai gyakorlat (8 het) kerdeses
 - Papirozasi problemak (Egyetemi reszrol)
 - ZOLI :
+
+# Matter
+
+- chip-repl python interfacing
+- build and flash esp
+- commisioning
