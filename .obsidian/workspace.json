@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "db1d965912881f0f",
+        "id": "c21572e50795af4e",
         "type": "tabs",
         "children": [
           {
-            "id": "e7834f82bc073f05",
+            "id": "24839ba058c410b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Machines/Sandbox/10.11.1.250.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baf36eb891396e2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/Machines/Sandbox/10.5.5.11.md",
+                "file": "OSCP/Machines/10.11.1.133.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Machines/Sandbox/10.5.5.11.md",
+                "file": "OSCP/Machines/10.11.1.133.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +94,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "baf36eb891396e2b",
+  "active": "24839ba058c410b9",
   "lastOpenFiles": [
     "OSCP/Machines/Sandbox/10.11.1.250.md",
-    "OSCP/Machines/Sandbox/10.5.5.11.md",
-    "OSCP/Course/pwk_network.md",
     "OSCP/Machines/LP-9 10.11.1.123.md",
-    "generic_work_notes.md",
-    "OSCP/Machines/LP-8 10.11.1.231.md",
-    "OSCP/Machines/LP-1 10.11.1.71.md",
-    "Matter/controller.md",
+    "OSCP/Machines/10.11.1.133.md",
+    "OSCP/TODO.md",
+    "OSCP/Course/MSFVenom.md",
     "OSCP/Course/lab_network.png",
-    "OSCP/Machines/LP-6 10.11.1.217.md"
+    "OSCP/Course/pwk_network.md",
+    "OSCP/Machines/Sandbox/10.5.5.25.md",
+    "OSCP/Machines/Sandbox/10.5.5.20.md",
+    "OSCP/Machines/Sandbox/10.5.5.11.md"
   ]
 }
