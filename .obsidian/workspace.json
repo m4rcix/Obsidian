@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d80c747205bdfaaf",
+        "id": "6b9e2f61bd454868",
         "type": "tabs",
         "children": [
           {
-            "id": "164810b7a60c6ee8",
+            "id": "08c0fa437851e907",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "352c189cefafd268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "172380d99a2cab0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac2995c7b9117665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/Machines/10.11.1.31.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Machines/10.11.1.31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac2995c7b9117665",
+  "active": "08c0fa437851e907",
   "lastOpenFiles": [
     "OSCP/TODO.md",
-    "OSCP/Machines/10.11.1.35.md",
-    "OSCP/Linux/Scripts/etc_passwd.md",
-    "OSCP/Machines/10.11.1.8.md",
-    "OSCP/Machines/10.11.1.133.md",
-    "OSCP/Machines/Sandbox/10.11.1.250.md",
-    "OSCP/Machines/Sandbox/10.5.5.25.md",
-    "OSCP/Machines/Sandbox/10.5.5.20.md",
-    "OSCP/Machines/Sandbox/10.5.5.11.md",
-    "OSCP/Machines/LP-9 10.11.1.123.md"
+    "OSCP/Machines/10.11.1.116.md",
+    "OSCP/Linux/Scripts/pty.md",
+    "OSCP/Machines/10.11.1.115.md",
+    "OSCP/Machines/10.11.1.234.md",
+    "OSCP/Machines/10.11.1.101.md",
+    "OSCP/Machines/10.11.1.14.md",
+    "OSCP/Machines/10.11.1.21.md",
+    "OSCP/Machines/10.11.1.20-24.md",
+    "OSCP/Linux/Scripts/etc_passwd.md"
   ]
 }
